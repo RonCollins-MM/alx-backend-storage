@@ -1,2 +1,3 @@
-# alx-backend-storage
+# Backend storage on MySQL
+
 Advanced backend storage with MySQL
